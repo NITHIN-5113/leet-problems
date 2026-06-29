@@ -19,4 +19,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/NITHIN-5113/leet-problems/tree/main/0344-reverse-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/NITHIN-5113/leet-problems/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
