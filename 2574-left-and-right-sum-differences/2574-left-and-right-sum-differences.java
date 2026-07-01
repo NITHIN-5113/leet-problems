@@ -14,12 +14,12 @@ class Solution {
             rightarr[i]=sum;
             sum+=nums[i];
         }
-        int []ans=new int[nums.length];
+        //int []ans=new int[nums.length];
         for(int i=0;i<nums.length;i++)
         {
-            ans[i]=Math.abs(leftarr[i]-rightarr[i]);
+            nums[i]=Math.abs(leftarr[i]-rightarr[i]);
         }
         
-        return ans;
+        return nums;
     }
 }
