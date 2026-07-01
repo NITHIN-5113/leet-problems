@@ -9,6 +9,7 @@
 | [0283-move-zeroes](https://github.com/NITHIN-5113/leet-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/NITHIN-5113/leet-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/NITHIN-5113/leet-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -19,6 +20,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NITHIN-5113/leet-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/NITHIN-5113/leet-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/NITHIN-5113/leet-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
