@@ -10,11 +10,13 @@
 | [0560-subarray-sum-equals-k](https://github.com/NITHIN-5113/leet-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/NITHIN-5113/leet-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/NITHIN-5113/leet-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +54,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 <!---LeetCode Topics End-->
