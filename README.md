@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/NITHIN-5113/leet-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/NITHIN-5113/leet-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/NITHIN-5113/leet-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -31,6 +32,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/NITHIN-5113/leet-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/NITHIN-5113/leet-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/NITHIN-5113/leet-problems/tree/main/0344-reverse-string/) | Easy |
@@ -53,6 +55,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
 ## Math
 | Problem Name | Difficulty |
