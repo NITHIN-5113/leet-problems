@@ -62,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3516-find-closest-person](https://github.com/NITHIN-5113/leet-problems/tree/main/3516-find-closest-person/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
