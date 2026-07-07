@@ -40,12 +40,14 @@
 | [0344-reverse-string](https://github.com/NITHIN-5113/leet-problems/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/NITHIN-5113/leet-problems/tree/main/0443-string-compression/) | Medium |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/NITHIN-5113/leet-problems/tree/main/3794-reverse-string-prefix/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/NITHIN-5113/leet-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/NITHIN-5113/leet-problems/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/NITHIN-5113/leet-problems/tree/main/0443-string-compression/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/NITHIN-5113/leet-problems/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
