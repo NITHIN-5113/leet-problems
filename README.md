@@ -12,6 +12,7 @@
 | [0645-set-mismatch](https://github.com/NITHIN-5113/leet-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [1929-concatenation-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/NITHIN-5113/leet-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -42,6 +43,7 @@
 | [0344-reverse-string](https://github.com/NITHIN-5113/leet-problems/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/NITHIN-5113/leet-problems/tree/main/0443-string-compression/) | Medium |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/NITHIN-5113/leet-problems/tree/main/3794-reverse-string-prefix/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -49,6 +51,7 @@
 | [0125-valid-palindrome](https://github.com/NITHIN-5113/leet-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/NITHIN-5113/leet-problems/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/NITHIN-5113/leet-problems/tree/main/0443-string-compression/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/NITHIN-5113/leet-problems/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
