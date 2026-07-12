@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/NITHIN-5113/leet-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/NITHIN-5113/leet-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/NITHIN-5113/leet-problems/tree/main/0283-move-zeroes/) | Easy |
@@ -33,11 +34,13 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/NITHIN-5113/leet-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/NITHIN-5113/leet-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/NITHIN-5113/leet-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/NITHIN-5113/leet-problems/tree/main/0283-move-zeroes/) | Easy |
