@@ -17,6 +17,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/NITHIN-5113/leet-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NITHIN-5113/leet-problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/NITHIN-5113/leet-problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
@@ -77,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NITHIN-5113/leet-problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/NITHIN-5113/leet-problems/tree/main/3516-find-closest-person/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
