@@ -16,6 +16,7 @@
 | [1672-richest-customer-wealth](https://github.com/NITHIN-5113/leet-problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/NITHIN-5113/leet-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHIN-5113/leet-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -27,6 +28,7 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/NITHIN-5113/leet-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/NITHIN-5113/leet-problems/tree/main/0645-set-mismatch/) | Easy |
+| [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -60,6 +62,7 @@
 | [0443-string-compression](https://github.com/NITHIN-5113/leet-problems/tree/main/0443-string-compression/) | Medium |
 | [1528-shuffle-string](https://github.com/NITHIN-5113/leet-problems/tree/main/1528-shuffle-string/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
 | [3174-clear-digits](https://github.com/NITHIN-5113/leet-problems/tree/main/3174-clear-digits/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/NITHIN-5113/leet-problems/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Binary Search
@@ -76,6 +79,7 @@
 | [0088-merge-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0645-set-mismatch](https://github.com/NITHIN-5113/leet-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
