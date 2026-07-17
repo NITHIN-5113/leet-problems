@@ -63,6 +63,7 @@
 | [0125-valid-palindrome](https://github.com/NITHIN-5113/leet-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/NITHIN-5113/leet-problems/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/NITHIN-5113/leet-problems/tree/main/0443-string-compression/) | Medium |
+| [0709-to-lower-case](https://github.com/NITHIN-5113/leet-problems/tree/main/0709-to-lower-case/) | Easy |
 | [1528-shuffle-string](https://github.com/NITHIN-5113/leet-problems/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NITHIN-5113/leet-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
