@@ -16,6 +16,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NITHIN-5113/leet-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/NITHIN-5113/leet-problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/NITHIN-5113/leet-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -92,6 +93,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHIN-5113/leet-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NITHIN-5113/leet-problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -118,5 +120,6 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NITHIN-5113/leet-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
