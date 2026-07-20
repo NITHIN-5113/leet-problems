@@ -56,6 +56,7 @@
 | [0443-string-compression](https://github.com/NITHIN-5113/leet-problems/tree/main/0443-string-compression/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NITHIN-5113/leet-problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/NITHIN-5113/leet-problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NITHIN-5113/leet-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/NITHIN-5113/leet-problems/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -69,6 +70,7 @@
 | [0709-to-lower-case](https://github.com/NITHIN-5113/leet-problems/tree/main/0709-to-lower-case/) | Easy |
 | [1528-shuffle-string](https://github.com/NITHIN-5113/leet-problems/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NITHIN-5113/leet-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/NITHIN-5113/leet-problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
 | [3174-clear-digits](https://github.com/NITHIN-5113/leet-problems/tree/main/3174-clear-digits/) | Easy |
