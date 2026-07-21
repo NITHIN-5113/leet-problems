@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/NITHIN-5113/leet-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/NITHIN-5113/leet-problems/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/NITHIN-5113/leet-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/NITHIN-5113/leet-problems/tree/main/0283-move-zeroes/) | Easy |
@@ -51,6 +52,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/NITHIN-5113/leet-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/NITHIN-5113/leet-problems/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/NITHIN-5113/leet-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/NITHIN-5113/leet-problems/tree/main/0283-move-zeroes/) | Easy |
