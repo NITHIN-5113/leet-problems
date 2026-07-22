@@ -19,6 +19,7 @@
 | [1528-shuffle-string](https://github.com/NITHIN-5113/leet-problems/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NITHIN-5113/leet-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/NITHIN-5113/leet-problems/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NITHIN-5113/leet-problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1929-concatenation-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -36,6 +37,7 @@
 | [0219-contains-duplicate-ii](https://github.com/NITHIN-5113/leet-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/NITHIN-5113/leet-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/NITHIN-5113/leet-problems/tree/main/0645-set-mismatch/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NITHIN-5113/leet-problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 ## Prefix Sum
@@ -77,6 +79,7 @@
 | [0709-to-lower-case](https://github.com/NITHIN-5113/leet-problems/tree/main/0709-to-lower-case/) | Easy |
 | [1528-shuffle-string](https://github.com/NITHIN-5113/leet-problems/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NITHIN-5113/leet-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NITHIN-5113/leet-problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/NITHIN-5113/leet-problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
@@ -120,6 +123,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/NITHIN-5113/leet-problems/tree/main/0645-set-mismatch/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NITHIN-5113/leet-problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +137,8 @@
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NITHIN-5113/leet-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NITHIN-5113/leet-problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 <!---LeetCode Topics End-->
