@@ -1,25 +1,23 @@
 class Solution {
-    public int countPrefixes(String[] words, String s) {
+    public int countPrefixes(String[] words, String pref) {
         int count=0;
-        for(String word:words)
-        {
-            if(word.length()>s.length())
-            {
-                continue;
-            }
-            boolean check=true;
-            for(int i=0;i<word.length();i++)
-            {
-                if(word.charAt(i)!=s.charAt(i))
-                {
-                    check=false;
+        for(String s:words){
+            int l=s.length();
+            int l1=pref.length();
+            int i=0,j=0;
+            boolean t=false;
+             if(l1<l) continue;
+            while(i<l && j<l1){
+                if(s.charAt(i)!=pref.charAt(j)) {
+                    t=true;
                     break;
                 }
+                else {
+                    i++;
+                    j++;
+                }
             }
-            if(check)
-            {
-                count++;
-            }
+            if(!t) count++;
         }
         return count;
     }
