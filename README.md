@@ -21,6 +21,7 @@
 | [1672-richest-customer-wealth](https://github.com/NITHIN-5113/leet-problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NITHIN-5113/leet-problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1929-concatenation-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/NITHIN-5113/leet-problems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
@@ -68,6 +69,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/NITHIN-5113/leet-problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/NITHIN-5113/leet-problems/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NITHIN-5113/leet-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/NITHIN-5113/leet-problems/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -83,6 +85,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NITHIN-5113/leet-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NITHIN-5113/leet-problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/NITHIN-5113/leet-problems/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/NITHIN-5113/leet-problems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/NITHIN-5113/leet-problems/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
