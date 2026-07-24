@@ -54,6 +54,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/NITHIN-5113/leet-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/NITHIN-5113/leet-problems/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NITHIN-5113/leet-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/NITHIN-5113/leet-problems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/NITHIN-5113/leet-problems/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/NITHIN-5113/leet-problems/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
 | [3174-clear-digits](https://github.com/NITHIN-5113/leet-problems/tree/main/3174-clear-digits/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/NITHIN-5113/leet-problems/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -152,4 +154,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/NITHIN-5113/leet-problems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/NITHIN-5113/leet-problems/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 <!---LeetCode Topics End-->
