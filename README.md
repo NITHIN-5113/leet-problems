@@ -112,6 +112,7 @@
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NITHIN-5113/leet-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/NITHIN-5113/leet-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHIN-5113/leet-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NITHIN-5113/leet-problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/NITHIN-5113/leet-problems/tree/main/3516-find-closest-person/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/NITHIN-5113/leet-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NITHIN-5113/leet-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
