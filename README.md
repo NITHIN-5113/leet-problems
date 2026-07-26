@@ -13,6 +13,7 @@
 | [0219-contains-duplicate-ii](https://github.com/NITHIN-5113/leet-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/NITHIN-5113/leet-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/NITHIN-5113/leet-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/NITHIN-5113/leet-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/NITHIN-5113/leet-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/NITHIN-5113/leet-problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/NITHIN-5113/leet-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/NITHIN-5113/leet-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
@@ -116,6 +118,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/NITHIN-5113/leet-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/NITHIN-5113/leet-problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
