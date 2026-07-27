@@ -17,6 +17,7 @@
 | [0645-set-mismatch](https://github.com/NITHIN-5113/leet-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/NITHIN-5113/leet-problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/NITHIN-5113/leet-problems/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NITHIN-5113/leet-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/NITHIN-5113/leet-problems/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -112,6 +113,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/NITHIN-5113/leet-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/NITHIN-5113/leet-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NITHIN-5113/leet-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/NITHIN-5113/leet-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -163,4 +165,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NITHIN-5113/leet-problems/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
