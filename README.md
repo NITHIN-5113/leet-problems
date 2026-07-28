@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/NITHIN-5113/leet-problems/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/NITHIN-5113/leet-problems/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/NITHIN-5113/leet-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/NITHIN-5113/leet-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/NITHIN-5113/leet-problems/tree/main/0283-move-zeroes/) | Easy |
@@ -39,6 +40,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/NITHIN-5113/leet-problems/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/NITHIN-5113/leet-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/NITHIN-5113/leet-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/NITHIN-5113/leet-problems/tree/main/0645-set-mismatch/) | Easy |
@@ -110,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/NITHIN-5113/leet-problems/tree/main/0169-majority-element/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/NITHIN-5113/leet-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/NITHIN-5113/leet-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
@@ -156,6 +159,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/NITHIN-5113/leet-problems/tree/main/0169-majority-element/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NITHIN-5113/leet-problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -169,4 +173,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/NITHIN-5113/leet-problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
