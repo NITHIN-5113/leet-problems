@@ -99,6 +99,7 @@
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NITHIN-5113/leet-problems/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
 | [3174-clear-digits](https://github.com/NITHIN-5113/leet-problems/tree/main/3174-clear-digits/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/NITHIN-5113/leet-problems/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NITHIN-5113/leet-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/NITHIN-5113/leet-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -183,4 +185,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/NITHIN-5113/leet-problems/tree/main/0055-jump-game/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
