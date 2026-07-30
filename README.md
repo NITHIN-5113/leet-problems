@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/NITHIN-5113/leet-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/NITHIN-5113/leet-problems/tree/main/0031-next-permutation/) | Medium |
+| [0055-jump-game](https://github.com/NITHIN-5113/leet-problems/tree/main/0055-jump-game/) | Medium |
 | [0088-merge-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/NITHIN-5113/leet-problems/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/NITHIN-5113/leet-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -57,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/NITHIN-5113/leet-problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/NITHIN-5113/leet-problems/tree/main/0055-jump-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NITHIN-5113/leet-problems/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -177,4 +179,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/NITHIN-5113/leet-problems/tree/main/0169-majority-element/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/NITHIN-5113/leet-problems/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
