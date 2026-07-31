@@ -14,6 +14,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/NITHIN-5113/leet-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/NITHIN-5113/leet-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/NITHIN-5113/leet-problems/tree/main/0283-move-zeroes/) | Easy |
+| [0324-wiggle-sort-ii](https://github.com/NITHIN-5113/leet-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/NITHIN-5113/leet-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/NITHIN-5113/leet-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/NITHIN-5113/leet-problems/tree/main/0645-set-mismatch/) | Easy |
@@ -59,6 +60,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/NITHIN-5113/leet-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/NITHIN-5113/leet-problems/tree/main/0055-jump-game/) | Medium |
+| [0324-wiggle-sort-ii](https://github.com/NITHIN-5113/leet-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NITHIN-5113/leet-problems/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -116,6 +118,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/NITHIN-5113/leet-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/NITHIN-5113/leet-problems/tree/main/0169-majority-element/) | Easy |
+| [0324-wiggle-sort-ii](https://github.com/NITHIN-5113/leet-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/NITHIN-5113/leet-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/NITHIN-5113/leet-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
@@ -181,6 +184,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/NITHIN-5113/leet-problems/tree/main/0169-majority-element/) | Easy |
+| [0324-wiggle-sort-ii](https://github.com/NITHIN-5113/leet-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,4 +193,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/NITHIN-5113/leet-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
 <!---LeetCode Topics End-->
