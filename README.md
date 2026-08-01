@@ -33,6 +33,7 @@
 | [2255-count-prefixes-of-a-given-string](https://github.com/NITHIN-5113/leet-problems/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/NITHIN-5113/leet-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/NITHIN-5113/leet-problems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NITHIN-5113/leet-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHIN-5113/leet-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -63,6 +64,7 @@
 | [0324-wiggle-sort-ii](https://github.com/NITHIN-5113/leet-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0881-boats-to-save-people](https://github.com/NITHIN-5113/leet-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NITHIN-5113/leet-problems/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/NITHIN-5113/leet-problems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
