@@ -132,6 +132,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/NITHIN-5113/leet-problems/tree/main/0007-reverse-integer/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/NITHIN-5113/leet-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NITHIN-5113/leet-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/NITHIN-5113/leet-problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
