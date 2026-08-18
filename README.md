@@ -37,6 +37,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NITHIN-5113/leet-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHIN-5113/leet-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/NITHIN-5113/leet-problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NITHIN-5113/leet-problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/NITHIN-5113/leet-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/NITHIN-5113/leet-problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -50,6 +51,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/NITHIN-5113/leet-problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2418-sort-the-people](https://github.com/NITHIN-5113/leet-problems/tree/main/2418-sort-the-people/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NITHIN-5113/leet-problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/NITHIN-5113/leet-problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
